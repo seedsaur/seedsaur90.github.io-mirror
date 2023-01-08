@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR" # "en-US"
 title                    : "Seedsaur Blog"
 title_separator          : "|"
-subtitle                 : "Seedsaur Blog" # site tagline that appears below site title in masthead
+subtitle                 : "Life is either a daring adventure or nothing." # site tagline that appears below site title in masthead
 name                     : "Seedsaur"
-description              : "Seedsaur's programming blog"
+description              : ""
 url                      : "https://seedsaur90.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
